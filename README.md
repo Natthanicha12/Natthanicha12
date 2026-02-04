@@ -7,8 +7,9 @@ I am passionate about hardware development, IoT technologies, and building impac
 
 ## About Me
 * ✉️  You can contact me at [Natthanicha.sr@kkumail.com](mailto:Natthanicha.sr@kkumail.com)
-* 🧠  I'm currently learning Node-RED Dashboard to integrate with my hardware systems
+* 🧠  Currently developing an STM32-based embedded system for vibration monitoring using geophones and FFT signal analysis
 
+  
 ## Skills
 **Core Skills**
 <p align="left">
