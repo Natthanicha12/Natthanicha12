@@ -6,7 +6,7 @@ Welcome to my GitHub profile.
 I am passionate about hardware development, IoT technologies, and building impactful projects while continuously learning new technologies.
 
 ## About Me
-* ✉️  You can contact me at [Natthanicha.sr@kkumail.com](mailto:Natthanicha.sr@kkumail.com)
+* ✉️  You can contact me at [Natthanichaphason@gmail.com](mailto:Natthanichaphason@gmail.com)
 * 🧠  Currently developing an STM32-based embedded system for vibration monitoring using geophones and FFT signal analysis
 
   
