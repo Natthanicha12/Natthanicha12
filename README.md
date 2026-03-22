@@ -7,7 +7,6 @@ I am passionate about hardware development, IoT technologies, and building impac
 
 ## About Me
 * ✉️  You can contact me at [Natthanichaphason@gmail.com](mailto:Natthanichaphason@gmail.com)
-* 🧠  Currently developing an STM32-based embedded system for vibration monitoring using geophones and FFT signal analysis
 
   
 ## Skills
