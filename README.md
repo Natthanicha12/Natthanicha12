@@ -4,13 +4,10 @@ Welcome to my GitHub profile.
 
 I am passionate about hardware development, IoT technologies, and building impactful projects while continuously learning new technologies.
 
----
 
 ## About Me
 
 - ✉️ You can contact me at [Natthanichaphason@gmail.com](mailto:Natthanichaphason@gmail.com)
-
----
 
 ## Skills
 
@@ -32,8 +29,6 @@ I am passionate about hardware development, IoT technologies, and building impac
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/LTspice_logo.png" alt="LTspice" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/FreeCAD_icon.svg" alt="FreeCAD" width="40" height="40"/>
 </p>
-
----
 
 ## Socials
 
