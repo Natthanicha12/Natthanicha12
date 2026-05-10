@@ -24,7 +24,6 @@ Welcome to my GitHub profile.
 <img src="https://forum.freecad.org/download/file.php?id=264548&sid=c9db40915c1c712bb93123a965a6b1c7" alt="C" title="C" width="36" height="36" /></a>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGMTiGodMVVJZ1OvAzaxgfCW0ZZ1ZhvQ0QA&s" alt="C" title="C" width="36" height="36" /></a>
 </p>
-</p>
 
 
 ## Socials
