@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile.
 
-I am passionate about hardware development, IoT technologies, and building impactful projects while continuously learning new technologies.
-
-
 ## About Me
 
 - ✉️ You can contact me at [Natthanichaphason@gmail.com](mailto:Natthanichaphason@gmail.com)
