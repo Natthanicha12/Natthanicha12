@@ -33,4 +33,5 @@ Welcome to my GitHub profile.
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32" height="32"/>
   </a>
 </p>
-> Thanks for visiting my profile! 🙏
+
+ > Thanks for visiting my profile! 🙏
