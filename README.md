@@ -14,7 +14,7 @@ I am passionate about hardware development, IoT technologies, and building impac
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
-<img src="https://qualichip.ch/wp-content/uploads/2024/05/stmicroelectronics-logo-9D97F63B5D-seeklogo.com_.png" alt="C" title="C" width="40" height="45" /></a>
+<img src="https://qualichip.ch/wp-content/uploads/2024/05/stmicroelectronics-logo-9D97F63B5D-seeklogo.com_.png" alt="C" title="C" width="40" height="36" /></a>
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
 
 
