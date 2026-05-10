@@ -10,25 +10,25 @@ I am passionate about hardware development, IoT technologies, and building impac
 - ✉️ You can contact me at [Natthanichaphason@gmail.com](mailto:Natthanichaphason@gmail.com)
 
 ## Skills
-
-### Core Skills
-
+**Core Skills**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stm32/stm32-original.svg" alt="STM32" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" width="40" height="40"/>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
+<img src="https://qualichip.ch/wp-content/uploads/2024/05/stmicroelectronics-logo-9D97F63B5D-seeklogo.com_.png" alt="C" title="C" width="40" height="36" /></a>
+<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
+
+
+**Additional Skills**
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwuZb0z5QTquRQ3-YAuzdTnGCSxTgSuttZdQ&s" alt="C" title="C" width="40" height="40" /></a>
+<img src="https://forum.freecad.org/download/file.php?id=264548&sid=c9db40915c1c712bb93123a965a6b1c7" alt="C" title="C" width="36" height="36" /></a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGMTiGodMVVJZ1OvAzaxgfCW0ZZ1ZhvQ0QA&s" alt="C" title="C" width="36" height="36" /></a>
+</p>
 </p>
 
-### Additional Skills
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/LTspice_logo.png" alt="LTspice" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/FreeCAD_icon.svg" alt="FreeCAD" width="40" height="40"/>
-</p>
 
 ## Socials
 
